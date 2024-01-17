@@ -1,0 +1,25 @@
+body {
+	  width: 600px;
+	    margin: 0 auto;
+	      background-color: #fffff0;
+	        padding: 0 40px 20px 20px;
+		  border: 5px solid black;
+	  }
+
+body.rien {
+background-color: #0000ff;
+	  }
+	  body.mauvais {
+background-color: #ff0000;
+          }
+	  body.bon {
+background-color: #00ff00;
+          }
+
+
+H1 {
+ font-size: 200%; 
+ color: navy; 
+ text-align: center;
+ font-family: Verdana, sans-serif; 
+} 
